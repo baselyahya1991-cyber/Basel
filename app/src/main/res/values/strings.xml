@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">منبه بسيط</string>
+    <string name="alarm_label">تسمية المنبه</string>
+    <string name="add_alarm">إضافة منبه</string>
+    <string name="edit_alarm">تعديل المنبه</string>
+    <string name="delete_alarm">حذف المنبه</string>
+    <string name="snooze">غفوة (5 دقائق)</string>
+    <string name="dismiss">إيقاف المنبه</string>
+    <string name="alarm_ringing">المنبه يرن الآن!</string>
+    <string name="wake_up">حان وقت الاستيقاظ</string>
+</resources>

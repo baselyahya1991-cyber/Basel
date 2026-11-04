@@ -1,0 +1,6 @@
+{
+  "name": "منبه بسيط",
+  "description": "تطبيق منبه ذكي وبسيط وسهل الاستخدام مع تخصيص المواعيد وتنبيهات صوتية واهتزاز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
